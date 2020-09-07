@@ -10,7 +10,7 @@ A simple Las Vegas dice app. You can make the die roll at the press of a button.
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
 <p align='center'>
-<img src='https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif' alt='Finished App' />
+<img src='https://github.com/mschneider86/dicee-flutter/blob/master/images/dicee-demo.gif' alt='Finished App' />
   </p>
 
 
